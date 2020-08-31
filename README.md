@@ -17,7 +17,7 @@ LittleBrother est un outil de collectes d'informations (OSINT) qui vise à effec
 
 Disclaimer
 =
-LittleBrother a été développé pour faire des recherches sur soi-même et pour voir les informations privées et sensibles que l'on peut laisser derrière sur les réseaux sociaux. Je n'encourage en aucun cas l'utilisation de cet outil sur une autre personne que soi-même ou d'utiliser cet outil à mauvais escient. Les auteurs de LittleBrother ne peuvent etre tenu pour responsable de l'utilisation de son outil.
+LittleBrother a été développé pour faire des recherches sur soi-même et pour voir les informations privées et sensibles que l'on peut laisser derrière sur les réseaux sociaux. Je n'encourage en aucun cas l'utilisation de cet outil sur une autre personne que soi-même ou d'utiliser cet outil à mauvais escient. Les auteurs de LittleBrother ne peuvent être tenu pour responsable de l'utilisation de son outil.
 
 
 Installation sur Linux
@@ -40,7 +40,7 @@ python3 LittleBrother.py
 Installation sur Windows
 =
 - 1. Telecharger [LittleBrother](https://github.com/lulz3xploit/LittleBrother/archive/master.zip)
-- 2. Installez Python depuis le Store Windows
+- 2. Installez Python 3.8 depuis le Store Windows
 - 4. Dezipper LittleBrother (master.zip)
 - 5. Ouvrez `CMD` et allez dans le repertoire **`LittleBrother-master`** via la commande `cd`.
      P.ex: 
@@ -90,7 +90,7 @@ Compatible
 
 Python version:
 =
-- Python3
+- Python 3.8
 
 Modules Python
 =
