@@ -129,7 +129,9 @@ Fonctionnalités
 
 Contributeurs
 =
-❤️ [H3L](https://github.com/lrhel) ❤
+95% - [lulz3xploit](https://github.com/lulz3xploit)
+4% - [H3L](https://github.com/lrhel)
+1% - [3H](https://github.com/Trihash)
 
 Nous Soutenir
 =
