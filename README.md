@@ -30,32 +30,32 @@ Il faut avoir `git` et `python3` d'installer sur sa machine
     python3 -m pip install -r requirements.txt
 ```    
 
-Execution Linux
+Exécution Linux
 =
-Dans le repertoire de LittleBrother, lancez cette commande pour pouvoir lancer LittleBrother:
+Dans le répertoire de LittleBrother, lancez cette commande pour pouvoir lancer LittleBrother:
 ```
 python3 LittleBrother.py
 ```
 
 Installation sur Windows
 =
-- 1. Telecharger [LittleBrother](https://github.com/lulz3xploit/LittleBrother/archive/master.zip)
-- 2. Installez Python depuis le Store Windows
+- 1. Télécharger [LittleBrother](https://github.com/lulz3xploit/LittleBrother/archive/master.zip)
+- 2. Installez Python **3.8** depuis le Store Windows
 - 4. Dezipper LittleBrother (master.zip)
-- 5. Ouvrez `CMD` et allez dans le repertoire **`LittleBrother-master`** via la commande `cd`.
+- 5. Ouvrez `CMD` et allez dans le répertoire **`LittleBrother-master`** via la commande `cd`.
      P.ex: 
 ```
 cd Desktop\
 cd LittleBrother-master\
 ``` 
-et executez:
+et exécutez:
 ```
     python3 -m pip install -r requirements.txt
 ```
 
 Lancer LittleBrother depuis Windows:
 =
-- Allez dans le repertoire **LittleBrother-master** comme a son installation et executez la commande: 
+- Allez dans le répertoire **LittleBrother-master** comme a son installation et exécutez la commande: 
 ```
 python3 LittleBrother.py
 ```
@@ -90,7 +90,7 @@ Compatible
 
 Python version:
 =
-- Python3
+- Python3.8
 
 Modules Python
 =
@@ -99,7 +99,7 @@ Modules Python
 - terminaltables
 - colorama
 
-Fonctionnalites
+Fonctionnalités
 =
  - Lookup:
 	- Phone lookup
